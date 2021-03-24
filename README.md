@@ -11,7 +11,7 @@ The team created two prototypes, “CNN from scratch” and transfer learning. W
 
 ![image](https://user-images.githubusercontent.com/26075877/112363947-030bd680-8d11-11eb-9b5b-c661f31fe272.png)
 
-![image](https://user-images.githubusercontent.com/26075877/112363880-f25b6080-8d10-11eb-81a1-229ffa0fcc4c.png)
+![image](https://user-images.githubusercontent.com/26075877/112364314-57af5180-8d11-11eb-874e-26bc79d72b7f.png)
 
 
 Our NP model can classify normal and pneumonia classes with a test accuracy of 92.8%. It also correctly predicts 4 out of 4 chest x-ray images when we test it on a new Normal vs Pneumonia dataset. The test accuracy of the bacterial VS virus pneumonia model achieved an overall accuracy of 75.5%.
